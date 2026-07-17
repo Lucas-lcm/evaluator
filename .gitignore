@@ -1,4 +1,4 @@
-*.toml
+*secrets.toml
 
 data/
 .env/

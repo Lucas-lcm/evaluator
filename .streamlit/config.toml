@@ -1,0 +1,10 @@
+[client]
+# Habilita o modo visualizador para ocultar opções de desenvolvedor
+toolbarMode = "viewer"
+
+[ui]
+# Oculta o menu principal no canto superior direito
+hideTopBar = true
+
+# Oculta a barra de navegação lateral em apps multipáginas
+hideSidebarNav = true
